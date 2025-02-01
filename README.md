@@ -5,4 +5,4 @@ Licensed under Apache License 2.0, you are free to make changes to the existing 
 
 # About distribution
 
-I keep this pack updated for future game versions on Modrinth. This repository stays on 1.21.1. Sorry for any inconvenience.
+I keep this pack updated for future game versions on Modrinth. This repository stays on Minecraft version 1.21.1. Sorry for any inconvenience.
